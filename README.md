@@ -2,6 +2,8 @@
 
 My personal portfolio and Day 1 practice work for CSS Basics and the Box Model. Open `index.html` in a browser to view the portfolio, projects, and coursework.
 
+**Live portfolio:** [Mohammad Haider — view the site ↗](https://haiderrrr685.github.io/day-1-css-assignments/)
+
 ## Projects
 
 | Assignment | What it demonstrates | Status |
@@ -24,12 +26,9 @@ My personal portfolio and Day 1 practice work for CSS Basics and the Box Model. 
 
 No dependencies or build tools are needed. Open `index.html` in a browser, or use the VS Code Live Server extension.
 
-## Upload to GitHub
+## Live preview
 
-1. Create a new GitHub repository, for example `day-1-css-assignments`.
-2. Add these project files to the repository and commit them.
-3. Share the repository URL with your teacher. They can follow progress through commits and the assignment checklist above.
-4. To publish a live preview, enable **Settings → Pages**, choose the `main` branch and `/ (root)`, then save. The gallery links to all four assignments.
+The site is published from the `main` branch with GitHub Pages. The portfolio gallery links to all four assignments.
 
 ## Student details
 
